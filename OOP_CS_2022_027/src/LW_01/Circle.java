@@ -1,4 +1,3 @@
-
 package LW_01;
 
 public class Circle {
